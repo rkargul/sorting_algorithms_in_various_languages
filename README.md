@@ -3,7 +3,7 @@
 A list of Sorting algorithms in C++. Can be used as a educational library to
 learn about new algorithms, or as a library for competitive programmers.
 
-# Included Algorithms
+## Included Algorithms
 
 - heap sort
 - insertion sort
