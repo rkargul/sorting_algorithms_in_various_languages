@@ -26,10 +26,14 @@ void selectionSort(int arr[], int size) {
 // Driver program to test selection sort
 int main() 
 { 
-	int arr[] = {10, 7, 8, 9, 1, 5}; 	
+	int arr[] = {10, 7, 8, 9, 1, 5};
     int n = sizeof(arr)/sizeof(arr[0]);
+    printf("unsorted array: \n"); 
+	for (int i = 0; i < n; ++i) {
+        std::cout << arr[i] << " ";
+    }
 	selectionSort(arr, n); 
-	printf("Sorted array: \n"); 
+	printf("\nSorted array: \n"); 
 	for (int i = 0; i < n; ++i) {
         std::cout << arr[i] << " ";
     }
