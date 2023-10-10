@@ -10,15 +10,6 @@ competitive programmers.
 - insertion sort
 - merge sort
 - quick sort
-- heap sort
-- insertion sort
-- merge sort
-- quick sort
-- heap sort
-- insertion sort
-- merge sort
-- quick sort
-- heap sort
-- insertion sort
-- merge sort
-- quick sort
+- bubble sort
+- selection sort
+- dual pivot quicksort
