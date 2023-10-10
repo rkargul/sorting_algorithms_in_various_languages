@@ -8,3 +8,10 @@ insert x (y:ys)
 insertionSort :: Ord a => [a] -> [a]
 insertionSort [] = []
 insertionSort (x:xs) = insert x (insertionSort xs)
+
+main :: IO ()
+main = do
+    let unsortedList = [5, 2, 9, 3, 6]
+    let sortedList = insertionSort unsortedList
+    putStrLn ("Unsorted List: " ++ show unsortedList)
+    putStrLn ("Sorted List: " ++ show sortedList)
