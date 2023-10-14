@@ -6,19 +6,17 @@ competitive programmers.
 
 ## Included Algorithms
 
-- heap sort
-- insertion sort
-- merge sort
-- quick sort
-- heap sort
-- insertion sort
-- merge sort
-- quick sort
-- heap sort
-- insertion sort
-- merge sort
-- quick sort
-- heap sort
-- insertion sort
-- merge sort
-- quick sort
+- C++:
+    - dual pivot quick sort
+    - heap sort
+    - insertion sort
+    - merge sort
+    - quick sort
+    - selection sort
+
+- Haskell: 
+    - bubble sort
+    - insertion sort
+    - merge sort
+    - quick sort
+    - selection sort
