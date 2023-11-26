@@ -13,6 +13,7 @@ competitive programmers.
     - merge sort
     - quick sort
     - selection sort
+    - bubble sort
 
 - Haskell: 
     - bubble sort
