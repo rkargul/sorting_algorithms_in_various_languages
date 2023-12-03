@@ -5,7 +5,6 @@ educational library to learn about new algorithms, or as a library for
 competitive programmers.
 
 ## Included Algorithms
-
 - C++:
     - bubble sort
     - dual pivot quick sort
@@ -14,7 +13,6 @@ competitive programmers.
     - merge sort
     - quick sort
     - selection sort
-
 - Haskell: 
     - bubble sort
     - insertion sort
@@ -23,3 +21,5 @@ competitive programmers.
     - selection sort
 - Java:
    - bubble sort
+   - quick sort
+   - selection sort
