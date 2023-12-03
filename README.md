@@ -7,13 +7,13 @@ competitive programmers.
 ## Included Algorithms
 
 - C++:
+    - bubble sort
     - dual pivot quick sort
     - heap sort
     - insertion sort
     - merge sort
     - quick sort
     - selection sort
-    - bubble sort
 
 - Haskell: 
     - bubble sort
