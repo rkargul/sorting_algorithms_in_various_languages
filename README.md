@@ -21,3 +21,5 @@ competitive programmers.
     - merge sort
     - quick sort
     - selection sort
+- Java:
+   - bubble sort
