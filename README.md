@@ -21,5 +21,6 @@ competitive programmers.
     - selection sort
 - Java:
    - bubble sort
+   - insertion sort
    - quick sort
    - selection sort
